@@ -3,7 +3,7 @@ My Resume website created with Bootstrap
 
 # License (Check also LICENSE for the original license)
 
-Copyright 2018 Ionut-Catalin Bolea
+Copyright 2018-2021 Ionut-Catalin Bolea
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
 to deal in the Software without restriction, including without limitation the rights to
