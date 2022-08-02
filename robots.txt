@@ -20,3 +20,18 @@ Disallow: /
 #  --> fuck off.
 User-Agent: SlySearch
 Disallow: /
+
+# Russian bots - like they would follow this
+User-Agent: Mail.Ru
+Disallow: /
+
+User-Agent: Yandex
+Disallow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+# You're welcome GH
+User-agent: *
+Allow: *
+Crawl-delay: 15
